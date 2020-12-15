@@ -1,7 +1,11 @@
+# @Author : Farhood Ghanbari (@FarhoodGH) & Ali Javadi (@javadimoghadam)
+# @Version : 1.0.1 Released 
+# @License : MIT
+
+
 from os import system
 import base64
 from colorama import Fore
-
 #custom encode
 def rot13(phrase):
    abc = "abcdefghijklmnopqrstuvwxyz"

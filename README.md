@@ -17,7 +17,6 @@ step 3 -> python3 encoder.py
 ```
 1- check if user enter wrong word [Solved]
 2 - customize encode [Solved]
-3- license key 
 ```
 
 #### License -> [MIT](https://opensource.org/licenses/MIT)

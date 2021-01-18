@@ -1,0 +1,10 @@
+C:\Users\javad\source\repos\encoder\encoder\bin\Debug\encoder.exe.config
+C:\Users\javad\source\repos\encoder\encoder\bin\Debug\encoder.exe
+C:\Users\javad\source\repos\encoder\encoder\bin\Debug\encoder.pdb
+C:\Users\javad\source\repos\encoder\encoder\obj\Debug\encoder.csprojAssemblyReference.cache
+C:\Users\javad\source\repos\encoder\encoder\obj\Debug\encoder.csproj.CoreCompileInputs.cache
+C:\Users\javad\source\repos\encoder\encoder\obj\Debug\encoder.exe
+C:\Users\javad\source\repos\encoder\encoder\obj\Debug\encoder.pdb
+C:\Users\javad\source\repos\encoder\encoder\bin\Debug\encoderDLL.dll
+C:\Users\javad\source\repos\encoder\encoder\bin\Debug\encoderDLL.pdb
+C:\Users\javad\source\repos\encoder\encoder\obj\Debug\encoder.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encoder", "encoder\encoder.csproj", "{76912119-BFB3-4CCB-8659-5A617F97CA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encoderDLL", "encoderDLL\encoderDLL.csproj", "{9AC94263-FD79-4DDD-B25E-1EF5DCB22ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76912119-BFB3-4CCB-8659-5A617F97CA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76912119-BFB3-4CCB-8659-5A617F97CA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76912119-BFB3-4CCB-8659-5A617F97CA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76912119-BFB3-4CCB-8659-5A617F97CA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC94263-FD79-4DDD-B25E-1EF5DCB22ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC94263-FD79-4DDD-B25E-1EF5DCB22ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC94263-FD79-4DDD-B25E-1EF5DCB22ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC94263-FD79-4DDD-B25E-1EF5DCB22ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A859934-EF33-4CDE-B916-AF0CC96D5DC8}
+	EndGlobalSection
+EndGlobal
